@@ -1,22 +1,24 @@
-**Wi-Fi roaming testing script**
+Wi-Fi roaming testing script
+----------------------------
 
 Displays wireless statistics to screen, showing when Wi-Fi client roams
 
 Saves output to CSV (rewtires file every time)
 
-**Windows**
+Windows
+-------
 
-Install:
+**Install**
 ```
 pip install -r requirements.txt
 ```
 
-Run:
+**Run**
 ```
 python roamwindows.py
 ```
 
-Sample output:
+**Sample output**
 ```
 13:25:15 SSID: HomeNet BSSID: 54:8a:ba:27:4c:af Channel: 100 Mode: 802.11g Signal: 92% RX(Mbps): 287 TX(Mbps): 287
 13:25:15 SSID: HomeNet BSSID: 54:8a:ba:27:4c:af Channel: 100 Mode: 802.11g Signal: 92% RX(Mbps): 287 TX(Mbps): 287
