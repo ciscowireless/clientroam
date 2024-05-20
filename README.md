@@ -30,3 +30,8 @@ python roamwindows.py
 19:23:00 SSID: DevNet BSSID: 6a:49:b2:f3:5d:73 Channel: 85 Band: 6 GHz Signal: 94% RX(Mbps): 1922 TX(Mbps): 2402
 19:23:00 SSID: DevNet BSSID: 6a:49:b2:f3:5d:73 Channel: 85 Band: 6 GHz Signal: 94% RX(Mbps): 1922 TX(Mbps): 2402
 ```
+### License
+
+This software is licensed under the Cisco Sample Code License
+
+URL: https://developer.cisco.com/site/license/cisco-sample-code-license/
