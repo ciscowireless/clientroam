@@ -20,15 +20,17 @@ python roamwindows.py
 
 **Sample output**
 ```
-19:22:57 SSID: DevNet BSSID: 6a:49:b2:f3:5d:73 Channel: 85 Band: 6 GHz Signal: 94% RX(Mbps): 1922 TX(Mbps): 2402
-19:22:57 SSID: DevNet BSSID: 6a:49:b2:f3:5d:73 Channel: 85 Band: 6 GHz Signal: 94% RX(Mbps): 1922 TX(Mbps): 2402
-19:22:58 SSID: DevNet BSSID: 6a:49:b2:f3:5d:73 Channel: 85 Band: 6 GHz Signal: 94% RX(Mbps): 1922 TX(Mbps): 2402
-19:22:58 SSID: DevNet BSSID: 6a:49:b2:f3:5d:73 Channel: 85 Band: 6 GHz Signal: 94% RX(Mbps): 1922 TX(Mbps): 2402
-19:22:59 SSID: DevNet BSSID: 6a:49:b2:f3:5d:73 Channel: 85 Band: 6 GHz Signal: 94% RX(Mbps): 1922 TX(Mbps): 2402
-19:22:59 SSID: DevNet BSSID: 6a:49:b2:f3:5d:73 Channel: 85 Band: 6 GHz Signal: 94% RX(Mbps): 1922 TX(Mbps): 2402
-19:22:59 SSID: DevNet BSSID: 6a:49:b2:f3:5d:73 Channel: 85 Band: 6 GHz Signal: 94% RX(Mbps): 1922 TX(Mbps): 2402
-19:23:00 SSID: DevNet BSSID: 6a:49:b2:f3:5d:73 Channel: 85 Band: 6 GHz Signal: 94% RX(Mbps): 1922 TX(Mbps): 2402
-19:23:00 SSID: DevNet BSSID: 6a:49:b2:f3:5d:73 Channel: 85 Band: 6 GHz Signal: 94% RX(Mbps): 1922 TX(Mbps): 2402
+2026-02-20 15:00:37  SSID:DevNet  Band:6 GHz  Channel:5  RSSI:-43dBm  Rx:1201  Tx:1201 BSSID:e4:38:7e:ac:0c:c7
+2026-02-20 15:00:38  SSID:DevNet  Band:6 GHz  Channel:5  RSSI:-43dBm  Rx:1201  Tx:1201 BSSID:e4:38:7e:ac:0c:c7
+2026-02-20 15:00:39  SSID:DevNet  Band:6 GHz  Channel:5  RSSI:-43dBm  Rx:1201  Tx:1201 BSSID:e4:38:7e:ac:0c:c7
+2026-02-20 15:00:39  SSID:DevNet  Band:6 GHz  Channel:5  RSSI:-43dBm  Rx:1201  Tx:1201 BSSID:e4:38:7e:ac:0c:c7
+2026-02-20 15:00:40  SSID:DevNet  Band:6 GHz  Channel:5  RSSI:-43dBm  Rx:1201  Tx:1201 BSSID:e4:38:7e:ac:0c:c7
+2026-02-20 15:00:40  SSID:DevNet  Band:6 GHz  Channel:5  RSSI:-43dBm  Rx:1201  Tx:1201 BSSID:e4:38:7e:ac:0c:c7
+2026-02-20 15:00:41  SSID:DevNet  Band:6 GHz  Channel:5  RSSI:-43dBm  Rx:1201  Tx:1201 BSSID:e4:38:7e:ac:0c:c7
+2026-02-20 15:00:41  SSID:DevNet  Band:6 GHz  Channel:5  RSSI:-43dBm  Rx:1201  Tx:1201 BSSID:e4:38:7e:ac:0c:c7
+2026-02-20 15:00:42  SSID:DevNet  Band:6 GHz  Channel:5  RSSI:-43dBm  Rx:1201  Tx:1201 BSSID:e4:38:7e:ac:0c:c7
+2026-02-20 15:00:43  SSID:DevNet  Band:6 GHz  Channel:5  RSSI:-43dBm  Rx:1201  Tx:1201 BSSID:e4:38:7e:ac:0c:c7
+2026-02-20 15:00:43  SSID:DevNet  Band:6 GHz  Channel:5  RSSI:-43dBm  Rx:1201  Tx:1201 BSSID:e4:38:7e:ac:0c:c7
 ```
 ### License
 
